@@ -2,17 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Hello!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm Brianna Rockburn, a first year Data Science student at Michigan Technological University.
 
-# Header 1
+My current goals is to graduate MTU with a bachelor's in Data Science and pursue a full-time job doing data governance and ethics.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+When not heading to class or working on course work, I like reading, crochet, and writing. 
+
+### Projects
+
+- This Portfolio!
+  - Even though this portfolio uses a regular Jekyll theme, it is the first website I've ever made on GitHub, which I am quite proud of. 
 
 ## Header 2
 
@@ -101,18 +106,13 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Contact
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Email: brianna.rockburn@gmail.com
+
+Github: github.com/bprockburn
+
+LinkedIn: linkedin.com/in/brianna-rockburn/
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
