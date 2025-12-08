@@ -39,5 +39,3 @@ Email: brianna.rockburn@gmail.com
 Github: github.com/bprockburn
 
 LinkedIn: linkedin.com/in/brianna-rockburn/
-
-> Live as if you were to die tomorrow. Learn as if you were to live forever.
