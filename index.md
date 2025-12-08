@@ -16,7 +16,7 @@ My current goals is to graduate MTU with a bachelor's in Data Science and pursue
 
 When not heading to class or working on course work, I like reading, crochet, and writing. 
 
-[Resume]()
+[Resume](resume.pdf)
 
 ### Projects
 
