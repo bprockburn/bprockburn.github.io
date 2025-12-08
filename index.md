@@ -6,6 +6,8 @@ layout: default
 
 [Link to another page](./another-page.html).
 
+![Profile](assets/images/picture.JPG)
+
 Hello!
 
 I'm Brianna Rockburn, a first year Data Science student at Michigan Technological University.
