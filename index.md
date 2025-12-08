@@ -99,7 +99,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Profile](assets/images/picture.JPG)
 
 ### Large image
 
