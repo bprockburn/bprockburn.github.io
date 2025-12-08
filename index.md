@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-[Link to another page](./another-page.html).
-
 ![Profile](assets/images/picture.JPG)
 
 Hello!
@@ -16,8 +14,6 @@ My current goals is to graduate MTU with a bachelor's in Data Science and pursue
 
 When not heading to class or working on course work, I like reading, crochet, and writing. 
 
-[Resume](resume.pdf)
-
 ## Skills
 
 - Git
@@ -25,7 +21,11 @@ When not heading to class or working on course work, I like reading, crochet, an
 - Bash
 - Java
 
-### Projects
+## Resume
+
+[Resume](resume.pdf)
+
+## Projects
 
 - This Portfolio!
   - Even though this portfolio uses a regular Jekyll theme, it is the first website I've ever made on GitHub, which I am quite proud of. 
