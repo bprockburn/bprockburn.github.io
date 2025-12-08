@@ -21,9 +21,7 @@ When not heading to class or working on course work, I like reading, crochet, an
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<a href="resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ### Header 3
 
