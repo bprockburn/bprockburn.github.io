@@ -21,14 +21,14 @@ When not heading to class or working on course work, I like reading, crochet, an
 - Bash
 - Java
 
-## Resume
-
-[Resume](resume.pdf)
-
 ## Projects
 
 - This Portfolio!
   - Even though this portfolio uses a regular Jekyll theme, it is the first website I've ever made on GitHub, which I am quite proud of. 
+
+## Resume
+
+[Resume](resume.pdf)
 
 ---
 
