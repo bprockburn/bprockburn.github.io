@@ -1,3 +1,3 @@
 # Brianna Rockburn's Portfolio
 
-![Portfolio](https://bprockburn.github.io/)
+[Portfolio](https://bprockburn.github.io/)
